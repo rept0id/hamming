@@ -1,4 +1,4 @@
-# hamming
+# hamming-numbers
 
 Hamming numbers, or ugly numbers, or smooth numbers, is a sequence of numbers that they can be produced by :
 
